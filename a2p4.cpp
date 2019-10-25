@@ -1,5 +1,6 @@
 //Ass-2 P-4
 #include<stdio.h>
+//main Function
 int main()
 {
 	int ch,n,arr[20];
